@@ -35,5 +35,9 @@ The dataset has three tables that will described in more detail below, to beter 
 - Novodra has high side effect of headache to Auralin
 - Novodra has high side effect of injection site discomfort but Auralin has throat irritation
 
+  ![Treatments](https://github.com/user-attachments/assets/7f778f70-faac-4867-83c8-e79b27e910d5)
+
+  ![Side effect](https://github.com/user-attachments/assets/36bb53d0-f657-4b2a-916f-af7d09fb80e8)
+
 ### Recommendation
 - I will recommend Auralin treatment because of its reduced side effect compared to Novodra
