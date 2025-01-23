@@ -1,4 +1,4 @@
-# Auralin-Clinical-Trial-data-analysis
+# Diabetes-Treatment-Clinical-Trial-data-analysis
 ### Table of Contents
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
